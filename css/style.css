@@ -1,9 +1,24 @@
-.song { text-align: center; }
+.song {
+  text-align: center;
+}
 
-.song .song-title h2 { font-size: 35px; color: darkblue; }
+.song .song-title h2 {
+  font-size: 35px;
+  color: red;
+}
 
-.song .song-title p { font-size: 25px; }
+.song .song-title p {
+  font-size: 25px;
+}
 
-.song .song-text { max-width: 500px; margin: 0 auto; }
+.song .song-text {
+  max-width: 500px;
+  margin: 0 auto;
+}
 
-.song .song-text p { font-size: 20px; line-height: 30px; }
+.song .song-text p {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
